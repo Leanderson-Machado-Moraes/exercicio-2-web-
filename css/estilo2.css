@@ -1,0 +1,11 @@
+*{
+
+}
+header{
+    color: blue;
+}
+hr{
+    height: 2px;
+    width: 100%;
+  background-color: grey;
+}

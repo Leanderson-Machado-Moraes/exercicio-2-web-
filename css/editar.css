@@ -1,0 +1,35 @@
+*{
+    
+}
+body{
+    margin: auto 10px;
+}
+header{
+    text-align: center;
+}
+
+hr{
+    height: 2px;
+    width: 100%;
+    background: grey;
+}
+
+h3{
+    color: red;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif
+}
+.disciplina{
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.texto{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.page2{
+    color: red;
+    margin: 0px 0px 0px 40px;
+}
+a{
+ color:red
+}
